@@ -3,8 +3,8 @@
 ### Hello World 👋
 
 - :orange_book: I’m currently learning machine learning
-- :hammer: My Kaggle address: https://www.kaggle.com/garymk
 - :envelope: How to reach me: chenxingmk@gmail.com
+- :hammer: My Kaggle address: https://www.kaggle.com/garymk
 
 <!--
 **GaryMK/GaryMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
