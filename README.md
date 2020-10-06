@@ -1,4 +1,10 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GaryMK" />
+
+### Hello World 👋
+
+- :orange_book: I’m currently learning machine learning
+- :hammer: My Kaggle address: https://www.kaggle.com/garymk
+- :envelope: How to reach me: chenxingmk@gmail.com
 
 <!--
 **GaryMK/GaryMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GaryMK)](https://github.com/anuraghazra/github-readme-stats)
