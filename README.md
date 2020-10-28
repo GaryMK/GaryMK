@@ -4,7 +4,8 @@
 
 - :orange_book: I’m currently learning machine learning
 - :envelope: How to reach me: chenxingmk@gmail.com
-- :hammer: My Kaggle address: https://www.kaggle.com/garymk
+- :hammer: My Kaggle address: [GaryMK](https://www.kaggle.com/garymk)
+- :computer: Here is my blog: [晨星](https://garymk.github.io/)
 
 <!--
 **GaryMK/GaryMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
